@@ -9,7 +9,7 @@
 - [Õppevorm](#õppevorm)
 - [Erinevate moodulite eemärgid](#erinevate-moodulite-eemärgid)
 - [Olulised erialaained](#olulised-erialaained)
-- [Vastuvõtutingimused](/public/vastuvõtutingimused/README.md)
+- [Vastuvõtutingimused](/profile/vastuvõtutingimused/README.md)
 - [2023. aastal kaitstud diplomitööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/diplomitood/README.md)
 - [Praktikates tehtud tööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/praktikad/README.md)
 - [Täiendkoolitus: Programmeerimise algõpetus Javascript baasil](https://www.tlu.ee/koolitused/programmeerimise-algopetus-javascript-baasil-0)
