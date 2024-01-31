@@ -1,12 +1,16 @@
 # Tallinna Ülikooli Haapsalu kolledž
-TLÜ Haapsalu kolledž on kõrgkool, mis muudab eelkõige kuurortina tuntud väikelinna Haapsalu ülikoolilinnaks ning võimaldab kõrghariduse omandamist uudsetel erialadel.
+TLÜ Haapsalu kolledž on kõrgkool, mis muudab eelkõige kuurortina tuntud väikelinna Haapsalu ülikoolilinnaks ning võimaldab kõrghariduse omandamist uudsetel erialadel. <br><br>
+[Külasta Haapsalu kolledži kodulehte](https://www.tlu.ee/haapsalu) <br>
+[Kolledži portfoolio](https://github.com/TLUHK-portfolio)
 
 ## Rakendusinformaatika eriala
 
 - [Õppevorm](#õppevorm)
 - [Erinevate moodulite eemärgid](#erinevate-moodulite-eemärgid)
 - [Olulised erialaained](#olulised-erialaained)
-- [Vastuvõtutingimused](#vastuvõtutingimused)
+- [Vastuvõtutingimused](./vastuvõtutingimused/README.md)
+- [2023. aastal kaitstud diplomitööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/diplomitood/README.md)
+- [Praktikates tehtud tööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/praktikad/README.md)
 
 ### Õppevorm
 
@@ -52,38 +56,3 @@ TLÜ Haapsalu kolledž on kõrgkool, mis muudab eelkõige kuurortina tuntud väi
 
 #### Eriala aineid toetavad kohustuslikud üldained: 
 - Õppimine kõrgkoolis, üld- ja sotsiaalpsühholoogia, erialasid lõimiv uuendus (ELU)
-
-### Vastuvõtutingimused
-#### Vastuvõtueksam 100%
-**Vastuvõtulävend: 65 palli** <br>
-Vastuvõtueksam on ühepäevane, toimub TLÜ Haapsalu kolledžis ja koosneb kahest osast:
-- **Arvutipõhine test**, millega hinnatakse kandidaadi teadmisi ja baasoskusi informaatika valdkonnast. Testi kestus 1 tund.
-- **Vestlus vastuvõtukomisjoniga**, kus hinnatakse kandidaadi õpimotivatsiooni ja sobivust erialale. Vestlusele pääsevad 50 kandidaati vastavalt testi tulemuste pingereale. Vestlusele pääsenute nimekiri ja ajakava antakse teada hiljemalt 1,5 tundi peale testi.
-
-
-#### Vastuvõtupunktide jagunemine:
-- test 50% lõpptulemusest;
-- vestlus 50% lõpptulemusest.
-
-#### Peamised hindamiskriteeriumid:
-- **Test:**
-  - informaatikaalaseid üldteadmised
-  - loogiline mõtlemine
-  - disainitaju
-  - inglise keele oskus (mõned ülesanded on inglise keeles)
-  - pseudokoodi lugemise oskus (ei eelda tingimata programmeerimise oskust, kuigi see tuleb kasuks)
-- **Vestlus:**
-  - eelnev õpi- ja töökogemus
-  - huvi valdkonna vastu
-  - eelteadmised õppekavast
-  - õpimotivatsioon
-  - suhtlemisoskus
-
-#### Hindamise kirjeldus:
-- Test kuni 50 punkti, mis annab kokkuvõttes 50% vastuvõtueksami tulemusest.
-- Vestlusel on kaks hindajat, kes annavad kumbki kuni viis punkti viies kategoorias (eelnev õpi- ja töökogemus, huvi valdkonna vastu, eelteadmised õppekavast, õpimotivatsioon, suhtlemisoskus).
-- Vestlusel on võimalik saada kuni 50 punkti (kaks hindajat * (5 kategooriat * 5 punkti)).
-- Vestlusel saadud punktid annavad kokku 50% lõpptulemusest.
-- Vastuvõtueksami tulemus = testi tulemus + vestluse tulemus.
-- Maksimaalne vastuvõtueksami tulemus on 100 punkti.
-
