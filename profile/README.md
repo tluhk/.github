@@ -1,7 +1,8 @@
-# Tallinna Ülikooli Haapsalu kolledž
-TLÜ Haapsalu kolledž on kõrgkool, mis muudab eelkõige kuurortina tuntud väikelinna Haapsalu ülikoolilinnaks ning võimaldab kõrghariduse omandamist uudsetel erialadel. <br><br>
+![logo](https://www.tlu.ee/sites/default/files/Haapsalu%20kolled%C5%BE/Logo/HaapsaluK_est.png) <br><br>
+**TLÜ Haapsalu kolledž on kõrgkool, mis muudab eelkõige kuurortina tuntud väikelinna Haapsalu ülikoolilinnaks ning võimaldab kõrghariduse omandamist uudsetel erialadel.** <br><br>
 [Külasta Haapsalu kolledži kodulehte](https://www.tlu.ee/haapsalu) <br>
-[Kolledži portfoolio](https://github.com/TLUHK-portfolio)
+[Täiendkoolitused](https://www.tlu.ee/haapsalu/koolitus/taienduskoolituskalender) <br>
+[Kolledži portfoolio](https://github.com/TLUHK-portfolio) <br><br>
 
 ## Rakendusinformaatika eriala
 
@@ -11,6 +12,7 @@ TLÜ Haapsalu kolledž on kõrgkool, mis muudab eelkõige kuurortina tuntud väi
 - [Vastuvõtutingimused](./vastuvõtutingimused/README.md)
 - [2023. aastal kaitstud diplomitööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/diplomitood/README.md)
 - [Praktikates tehtud tööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/praktikad/README.md)
+- [Täiendkoolitus: Programmeerimise algõpetus Javascript baasil](https://www.tlu.ee/koolitused/programmeerimise-algopetus-javascript-baasil-0)
 
 ### Õppevorm
 
