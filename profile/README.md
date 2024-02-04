@@ -3,6 +3,8 @@
 [Külasta Haapsalu kolledži kodulehte](https://www.tlu.ee/haapsalu) <br>
 [Täiendkoolitused](https://www.tlu.ee/haapsalu/koolitus/taienduskoolituskalender) <br>
 [Kolledži portfoolio](https://github.com/TLUHK-portfolio) <br><br>
+Haapsalu kolledž on [GitHub Campus programmi partnerkool](https://education.github.com/schools) <br>
+<img src="https://www.tlu.ee/sites/default/files/inline-images/image-20230425112340-1.png" width="250" />
 
 ## Rakendusinformaatika eriala
 
