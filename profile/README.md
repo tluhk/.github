@@ -2,18 +2,19 @@
 **TLÜ Haapsalu kolledž on kõrgkool, mis muudab eelkõige kuurortina tuntud väikelinna Haapsalu ülikoolilinnaks ning võimaldab kõrghariduse omandamist uudsetel erialadel.** <br><br>
 [Külasta Haapsalu kolledži kodulehte](https://www.tlu.ee/haapsalu) <br>
 [Täiendkoolitused](https://www.tlu.ee/haapsalu/koolitus/taienduskoolituskalender) <br>
-[Kolledži portfoolio](https://github.com/TLUHK-portfolio) <br><br>
-Haapsalu kolledž on [GitHub Campus programmi partnerkool](https://education.github.com/schools) <br>
+[HK rakendusinformaatika portfoolio](https://github.com/TLUHK-portfolio) <br><br>
+Haapsalu kolledž on GitHub Campus programmi partnerkool<br>
 <img src="https://www.tlu.ee/sites/default/files/inline-images/image-20230425112340-1.png" width="250" />
 
 ## Rakendusinformaatika eriala
+Rakendusinformaatika eriala eesmärk on valmistada tudengeid ette töötama tänapäevasele tööjõuturule suunatud praktiliste IT-lahendustega. Selle eriala kaudu omandavad üliõpilased teadmisi ja oskusi, mis on vajalikud tarkvara arendamisel, IT-süsteemide haldamisel ja arendusprojektide elluviimisel.
 
 ### Õppevorm
 
 **Rakenduskõrgharidusõpe**
-- **Nominaalõppeaeg:** 3 aastat
-- **Sessioonõpe:** õppetöö valdavalt N-L, kahel kuni kolmel päeval üle nädala
-- **Õppe maht:** 180 Euroopa ainepunkti (EAP)
+- **Õppekeel:** Eesti keel
+- **Õppevorm:** Tsükliõpe (üle nädala neljapäevast laupäevani)
+- **Õppeaeg:**  3 aastat (180 EAP)
 - Õppekava läbimiseks peab üliõpilane läbima õppekava etteantud mahus, sh. sooritama kõik kohustuslikud õppeained ning koostama ja kaitsma lõputöö.
 
 <details>
@@ -73,6 +74,7 @@ Haapsalu kolledž on [GitHub Campus programmi partnerkool](https://education.git
 
 ### Kasulikud lingid:
 - [Vastuvõtutingimused](/profile/vastuvõtutingimused/README.md)
-- [2023. aastal kaitstud diplomitööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/diplomitood/README.md)
+- [HK rakendusinformaatika portfoolio](https://github.com/TLUHK-portfolio)
+- [2024. aastal kaitstud diplomitööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/diplomitood/README.md)
 - [Praktikates tehtud tööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/praktikad/README.md)
 - [Täiendkoolitus: Programmeerimise algõpetus Javascript baasil](https://www.tlu.ee/koolitused/programmeerimise-algopetus-javascript-baasil-0)
