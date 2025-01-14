@@ -16,6 +16,7 @@ Rakendusinformaatika eriala eesmärk on valmistada tudengeid ette töötama tän
 - **Õppevorm:** Tsükliõpe (üle nädala neljapäevast laupäevani)
 - **Õppeaeg:**  3 aastat (180 EAP)
 - Õppekava läbimiseks peab üliõpilane läbima õppekava etteantud mahus, sh. sooritama kõik kohustuslikud õppeained ning koostama ja kaitsma lõputöö.
+- Igal üliõpilasel on õpingute ajal kasutamiseks **MS Office 365 A3 litsents**.
 
 <details>
   <summary><b>Erinevate moodulite eemärgid</b></summary><br>
@@ -74,6 +75,7 @@ Rakendusinformaatika eriala eesmärk on valmistada tudengeid ette töötama tän
 
 ### Kasulikud lingid:
 - [Vastuvõtutingimused](/profile/vastuvõtutingimused/README.md)
+- [Õppekava ÕIS-is](https://ois2.tlu.ee/tluois/kava/HKIFR/14.HK)
 - [HK rakendusinformaatika portfoolio](https://github.com/TLUHK-portfolio)
 - [2024. aastal kaitstud diplomitööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/diplomitood/README.md)
 - [Praktikates tehtud tööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/praktikad/README.md)
