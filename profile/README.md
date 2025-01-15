@@ -74,7 +74,7 @@ Rakendusinformaatika eriala eesmärk on valmistada tudengeid ette töötama tän
 
 ### Kasulikud lingid:
 - [Vastuvõtutingimused](/profile/vastuvõtutingimused/README.md)
-- [Õppekava ÕIS-is](https://ois2.tlu.ee/tluois/kava/HKIFR/14.HK)
+- [Õppekava ÕIS-is](https://ois2.tlu.ee/tluois/kava/HKIFR/24.HK)
 - [HK rakendusinformaatika portfoolio](https://github.com/TLUHK-portfolio)
 - [2024. aastal kaitstud diplomitööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/diplomitood/README.md)
 - [Praktikates tehtud tööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/praktikad/README.md)
