@@ -82,3 +82,6 @@ Rakendusinformaatika eriala eesmärk on valmistada tudengeid ette töötama tän
 
 > [!NOTE]
 > Igal üliõpilasel on õpingute ajal kasutamiseks **MS Office 365 A3 litsents**.
+
+<b><br>
+[ENG](https://github.com/tluhk/.github/blob/master/profile/eng/README.md)
