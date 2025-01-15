@@ -19,7 +19,6 @@ The goal of the Applied Computer Science program is to prepare students to work 
 - **Study Format:** Cyclical studies (every other week, Thursday to Saturday)
 - **Duration of Studies:** 3 years (180 ECTS credits)
 - To complete the curriculum, students must fulfill all mandatory courses and defend a final thesis.
-- Each student is provided with an **MS Office 365 A3 license** for use during their studies.
 
 <details>
   <summary><b>Goals of the Program Modules</b></summary><br>
@@ -65,9 +64,9 @@ The goal of the Applied Computer Science program is to prepare students to work 
   <details>
   <summary><b>Internships:</b></summary>
 
-  1. **Multimedia Internship** - Group projects applying knowledge in programming and media.
-  2. **Elective Internship** - Team projects in collaboration with various organizations (e.g., a breathalyzer calculator developed with the Estonian Road Administration).
-  3. **Company Internship** - Individual experience in the IT field, providing real-world workplace exposure.
+  1. **Practice I** - Group projects applying knowledge in programming and media.
+  2. **Practice II** - Team projects in collaboration with various organizations (e.g., a breathalyzer calculator developed with the Estonian Road Administration).
+  3. **Enterprise Practice** - Individual experience in the IT field, providing real-world workplace exposure.
   </details>
 
   <details>
@@ -83,4 +82,10 @@ The goal of the Applied Computer Science program is to prepare students to work 
 - [HK Applied Computer Science Portfolio](https://github.com/TLUHK-portfolio)
 - [Theses Defended in 2024](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/diplomitood/README.md)
 - [Internship Projects](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/praktikad/README.md)
-- [Continuing Education: Introduction to Programming with JavaScript](https://www.tlu.ee/koolitused/programmeerimise-algopetus-javascript-baasil-0)
+- [Continuing Education: Introduction to Programming with JavaScript](https://www.tlu.ee/koolitused/programmeerimise-algopetus-javascript-baasil-0) <br>
+
+> [!NOTE]
+> Each student is provided with an **MS Office 365 A3 license** for use during their studies.
+
+<b><br>
+[EST](https://github.com/tluhk?view_as=public)
