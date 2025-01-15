@@ -60,8 +60,8 @@ Rakendusinformaatika eriala eesmärk on valmistada tudengeid ette töötama tän
   <details>
   <summary><b>Erialane praktika:</b></summary>
 
-  1. **Multimeediumi praktika** raames saab rühmades rakendada pea kõike õpitut programmeerimise ja meedia valdkonnas.
-  2. **Valikpraktika** raames on võimalik meeskonnana teha rakendusi koostöös erinevate asutustega. Näiteks on Maanteeametiga koostöös valminud alkokalkulaator.
+  1. **Praktika I** raames saab rühmades rakendada pea kõike õpitut programmeerimise ja meedia valdkonnas.
+  2. **Praktika II** raames on võimalik meeskonnana teha rakendusi koostöös erinevate asutustega. Näiteks on Maanteeametiga koostöös valminud alkokalkulaator.
   3. **Ettevõttepraktika** on individuaalne ja annab üliõpilasele võimaluse saada reaalne IT-valdkonnas töötamise kogemus mõnes ettevõttes.
   </details>
 
@@ -74,7 +74,11 @@ Rakendusinformaatika eriala eesmärk on valmistada tudengeid ette töötama tän
 
 ### Kasulikud lingid:
 - [Vastuvõtutingimused](/profile/vastuvõtutingimused/README.md)
+- [Õppekava ÕIS-is](https://ois2.tlu.ee/tluois/kava/HKIFR/24.HK)
 - [HK rakendusinformaatika portfoolio](https://github.com/TLUHK-portfolio)
 - [2024. aastal kaitstud diplomitööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/diplomitood/README.md)
 - [Praktikates tehtud tööd](https://github.com/TLUHK-Portfolio/Portfoolio/blob/main/RIF/praktikad/README.md)
-- [Täiendkoolitus: Programmeerimise algõpetus Javascript baasil](https://www.tlu.ee/koolitused/programmeerimise-algopetus-javascript-baasil-0)
+- [Täiendkoolitus: Programmeerimise algõpetus Javascript baasil](https://www.tlu.ee/koolitused/programmeerimise-algopetus-javascript-baasil-0) <br>
+
+> [!NOTE]
+> Igal üliõpilasel on õpingute ajal kasutamiseks **MS Office 365 A3 litsents**.
